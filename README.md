@@ -31,3 +31,5 @@ App List
   -Virtual Tour
   
   -Where Is My Car?
+  
+  For preparation and installation video (Turkish) https://www.youtube.com/watch?v=pmCc4vTA7Wk
